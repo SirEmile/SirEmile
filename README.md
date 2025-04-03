@@ -11,7 +11,7 @@
 
 ### Me: 
 
-Cybersecurity master's student interested in Cryptography, Web, Network and Software Security. I currently reside in Germany 🇩🇪
+Interested in Cryptography, Web, Network and Software Security.
 
 ---
 
