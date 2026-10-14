@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UWs4CIAKOMILTATwU9/giphy.gif" width="150"/><br><br>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/emin-fataliyev/">
+    <a href="https://www.linkedin.com/in/emil-fatali/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
@@ -11,7 +11,7 @@
 
 ### Me: 
 
-Interested in Cryptography, Web, Network and Software Security.
+Interested in Cybersecurity and Software Engineering.
 
 ---
 
